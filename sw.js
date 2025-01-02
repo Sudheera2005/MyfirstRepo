@@ -1,7 +1,7 @@
 const CACHE_NAME = "static-page-cache-v1";
 const URLS_TO_CACHE = [
   "/PWA/",
-  "/PWA/PWAEX.html",
+  "/PWA/index.html",
   "/PWA/PWA.css",
   "/PWA/sw.js",
   "/PWA/favicon/favicon.ico",

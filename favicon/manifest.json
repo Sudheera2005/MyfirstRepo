@@ -1,7 +1,7 @@
 {
  "name": "PWA",
  "short_name": "MyWeb",
- "start_url": "/Sudheera/PWAEX.html",
+ "start_url": "/PWA/index.html",
  "display": "standalone",
  "background_color": "black",
  "theme_color": "black",
